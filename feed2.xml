@@ -21,36 +21,6 @@
         <state><![CDATA[CA]]></state>
         <country><![CDATA[US]]></country>
         <postalCode><![CDATA[94085]]></postalCode>
-        <industryCodes>
-            <industryCode><![CDATA[120]]></industryCode>
-<industryCode><![CDATA[125]]></industryCode>
-        </industryCodes>
-        <jobFunctions>
-            <jobFunction><![CDATA[eng]]></jobFunction>
-            <jobFunction><![CDATA[it]]></jobFunction>
-        </jobFunctions>
-        <experienceLevel><![CDATA[MID_SENIOR_LEVEL]]></experienceLevel>
-        <jobtype><![CDATA[FULL_TIME]]></jobtype>
-        <skills>
-            <skill><![CDATA[Java]]></skill>
-            <skill><![CDATA[Python]]></skill>
-            <skill><![CDATA[Oracle]]></skill>
-            <skill><![CDATA[SQL]]></skill>
-        </skills>
-        <salaries>
-            <salary>
-                <highEnd>
-                    <amount><![CDATA[100000]]></amount>
-                    <currencyCode><![CDATA[USD]]></currencyCode>
-                </highEnd>
-                <lowEnd>
-                    <amount><![CDATA[50000]]</amount>
-                    <currencyCode><![CDATA[USD]]></currencyCode>
-                </lowEnd>
-                <period><![CDATA[YEARLY]]></period>
-                <type><![CDATA[BASE_SALARY]]></type>
-            </salary>
-        </salaries>
         <workplaceTypes><![CDATA[On-site]]></workplaceTypes>
         <jobPostingAvailability><![CDATA[INTERNAL]]></jobPostingAvailability>
         <listDate><![CDATA[08/28/2023]]></listDate>
