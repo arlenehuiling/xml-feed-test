@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+  <job>
+    <externalJobPostingId>FLEXIS-TEST-001</externalJobPostingId>
+    <title>Software Engineer (Internal)</title>
+    <description>Build and maintain internal tools for Flexis.</description>
+    <applyUrl>https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR33HXTDsEytMi9E4JnSosHJUOUNDU1M2RldRRU1FM0U2U0xXMVVIMjI5Ny4u&route=shorturl</applyUrl>
+    <jobPostingAvailability>INTERNAL</jobPostingAvailability>
+  </job>
+  <job>
+    <externalJobPostingId>FLEXIS-TEST-002</externalJobPostingId>
+    <title>Data Analyst (Internal)</title>
+    <description>Analyze learning engagement and job signals.</description>
+    <applyUrl>https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR33HXTDsEytMi9E4JnSosHJUOUNDU1M2RldRRU1FM0U2U0xXMVVIMjI5Ny4u&route=shorturl</applyUrl>
+    <jobPostingAvailability>INTERNAL</jobPostingAvailability>
+  </job>
+</jobs>
